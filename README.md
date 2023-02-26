@@ -2,7 +2,7 @@
 
 This is the repo for my master project **"Evolutionary Algorithm Approaches for the Euclidean Steiner Tree Problem with Soft Obstacles"**, which is an extended replication of the paper **"A Genetic Algorithm Approach for the Euclidean Steiner Tree Problem with Soft Obstacles"** by **Manou Rosenberg et al**. <br>
 <br>
-The project is implemented under the instructions of my supervisor **Daan van den Berg**, the professor of **Vrije Universiteit of Amsterdam** & **University of Amsterdam**. <br>
+The project is implemented under the instructions of my supervisor **Daan van den Berg**, the professor of **Vrije Universiteit of Amsterdam** & **Universiteit van Amsterdam**. <br>
 
 **Special thanks for this humorous and respectable professor!**
 
